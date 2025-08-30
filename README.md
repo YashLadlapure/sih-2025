@@ -12,9 +12,7 @@ Easily run this project using Docker Compose.
 1. **Clone the repository:**
 
    ```bash
-  git clone https://github.com/YashLadlapure/sih-2025.git
-cd sih-2025
-
+   git clone https://github.com/YashLadlapure/sih-2025.git
    cd sih-2025
    ```
 
