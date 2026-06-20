@@ -1,31 +1,45 @@
-# Project Setup with Docker Compose
+# 🏆 Smart India Hackathon 2025
 
-Easily run this project using Docker Compose.
+> Official SIH 2025 project submission — built under 48-hour hackathon conditions as part of MIT-WPU team.
 
-## Prerequisites
-
-- [Docker](https://docs.docker.com/get-docker/)
-- [Docker Compose](https://docs.docker.com/compose/install/)
-
-## Getting Started
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/YashLadlapure/sih-2025.git
-   cd sih-2025
-
-   ```
-
-2. **Start the services:**
-
-   ```bash
-   docker-compose up
-   ```
-
-3. **Access the application:**
-   Open your browser and go to [http://localhost:3000](http://localhost:3000)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 ---
 
-For more information, see the official [Docker Compose documentation](https://docs.docker.com/compose/).
+## 💡 Problem Statement
+
+Built as a solution to a government/industry problem statement under Smart India Hackathon 2025, focused on developing a working web-based prototype within hackathon constraints.
+
+---
+
+## ✨ Features
+
+- 🔧 Rapid prototype built in 48 hours
+- 📱 Responsive UI for mobile and desktop
+- 📊 Clean data presentation layer
+- 🤝 Collaborative team development
+
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/YashLadlapure/sih-2025.git
+cd sih-2025
+# Open index.html in your browser
+open index.html
+```
+
+---
+
+## 🏟️ Built At
+
+**Smart India Hackathon 2025** — MIT-WPU, Pune
+
+---
+
+## 👤 Author
+
+**Yash Ladlapure** — [GitHub](https://github.com/YashLadlapure) · [LinkedIn](https://www.linkedin.com/in/yash-ladlapure) · [Portfolio](https://yashladlapure.github.io/portfolio-website/)
